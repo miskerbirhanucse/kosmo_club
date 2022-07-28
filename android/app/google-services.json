@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575320661777",
+    "project_id": "kosmo-club",
+    "storage_bucket": "kosmo-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575320661777:android:18685de5666cc83b2c36b0",
+        "android_client_info": {
+          "package_name": "com.example.kosmo_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575320661777-0in1p83j8k3ibilngl0o1hmpcl702faj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaMtDISYdRUliSzS5TAGfAHf2nMwZus4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575320661777-0in1p83j8k3ibilngl0o1hmpcl702faj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
